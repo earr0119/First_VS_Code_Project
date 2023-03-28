@@ -49,9 +49,14 @@ a:hover{
 }
 .title h1{
     color:rgba(169, 211, 234, 0.848);
-    font-size: 50px;
+    font-size: 3rem;
     font-weight: bold;
-    padding: 10px;
+    padding: 0.5rem;
+}
+.title h2{
+    color:rgba(169, 211, 234, 0.848);
+    font-size: 1.3rem;
+    padding: 0.5rem;
 }
 .button a{
     text-align: center;
@@ -79,7 +84,7 @@ a:hover{
 }
 .about h2{
     color: beige;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 .about p{
     font-size: large;
